@@ -21,14 +21,14 @@
 
 ---
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<h2 align="left"><u><b>Knowledge Base</b></u></h2>
 
-<p align="center">
+<p align="left">
   <img style="width:26rem; height:auto" src="https://i.ibb.co/0GZM0Hv/Java-Script-frameworks.gif"/>
 </p>
 
-<h3 align="center">Languages</h3>
-<p align="center">
+<h3 align="left">Languages</h3>
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
@@ -47,8 +47,8 @@
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
+<h3 align="left">Frontend</h3>
+<p align="left">
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
@@ -70,8 +70,8 @@
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
+<h3 align="left">Backend</h3>
+<p align="left">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -81,16 +81,16 @@
       alt="express" />
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
+<h3 align="left">Database</h3>
+<p align="left">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
+<h3 align="left">Cloud & Hosting:</h3>
+<p align="left">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
@@ -103,8 +103,8 @@
   </a> 
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
+<h3 align="left">Version Control & CI/CD</h3>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -114,8 +114,8 @@
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
+<h3 align="left">Preferred IDEs  & Tools :</h3>
+<p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
@@ -126,9 +126,9 @@
 
 ---
 
-<h3 align="center">Connect with me</h3>
+<h3 align="left">Connect with me</h3>
 
-<div style="margin-top:10px" align="center">
+<div style="margin-top:10px" align="left">
   <div>
     <a  href="https://dev.to/joycmollik" target="_blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto"/>
@@ -154,8 +154,8 @@
 
 ---
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
+<div align="left">
+<h2 align="left" style="margin: 5px 10px;">Github stats:</h2>
   
  <div align="center">
   <a href="https://github.com/JoyCmollik">
@@ -174,4 +174,4 @@
 
 ---
 
-Last Edited on: 11/17/2021
+Last Edited on: 1/03/2022
