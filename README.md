@@ -23,10 +23,6 @@
 
 <h2 align="left"><u><b>Knowledge Base</b></u></h2>
 
-<p align="left">
-  <img style="width:26rem; height:auto" src="https://i.ibb.co/0GZM0Hv/Java-Script-frameworks.gif"/>
-</p>
-
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> 
